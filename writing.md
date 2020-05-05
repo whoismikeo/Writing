@@ -19,6 +19,6 @@ This is a basic paragraph
 > #### The quarterly results look great!
 >
 > - Revenue was off the CHANGED RIGHT HERE
-> - Profits were higher than ever.
+> - Profits were higher than ***ever.***
 >
 >  *Everything* is going according to **plan**.
